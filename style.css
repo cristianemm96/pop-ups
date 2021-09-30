@@ -10,27 +10,27 @@ body{
 }
 
 #cookies{
-    width: 30%;
-    height: 530px;
+    width: 432px;
+    height: 399px;
     margin-top: 3%;
-    margin-left: 32%;
+    margin-left: 38%;
     background-color: #FFFFFF;
     border-radius: 20px 20px;
-    font-size: 23px;
+    font-size: 20px;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: bold;
     overflow: auto;
 }
 
 #session{
-    width: 30%;
-    height: 530px;
+    width: 432px;
+    height: 399px;
     margin-top: 2%;    
-    margin-left: 32%;
+    margin-left: 38%;
     background-color: #FFFFFF;
     margin-bottom: 50px;
     border-radius: 20px 20px;
-    font-size: 23px;
+    font-size: 20px;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: bold;
     overflow: auto;
@@ -39,7 +39,7 @@ body{
 #cookie-img{
     margin-left: 35%;
     margin-top: 10%;
-    width: 33%;
+    width: 30%;
     
 }
 
@@ -101,7 +101,7 @@ h2{
     margin-top:35px;
     margin-bottom: -40px;
     color: rgb(218, 214, 214);
-    font-size: 23px;
+    font-size: 19px;
     text-decoration: none;
 }
 
